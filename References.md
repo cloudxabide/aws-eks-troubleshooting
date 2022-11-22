@@ -9,5 +9,11 @@
 
 ## Individual (Private) links
 
+## Socia Media Links
+[Containers from the Couch](https://www.youtube.com/containersfromthecouch)  
+[Red Hat OpenShift](https://www.youtube.com/c/OpenShift)  
+[Red Hat OpenShift - Ask an OpenShift Admin](https://www.youtube.com/playlist?list=PLaR6Rq6Z4IqdsG6b09q4QIv_Yq5fNL7zh)
+
+
 ## Notes
 All link are official (
